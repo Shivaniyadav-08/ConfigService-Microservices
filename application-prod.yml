@@ -2,7 +2,7 @@
 
 spring:
     application: 
-          name: Dev-Config
+          name: Prod-Config
 eureka:
   instance:
     prefer-ip-address: true
